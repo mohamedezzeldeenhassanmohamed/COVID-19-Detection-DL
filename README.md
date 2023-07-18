@@ -11,3 +11,5 @@ Yeah, as you guessed I am a huge fan of Star Wars. Maybe, I learn Artificial Int
 Though many fields can be benificial by the implementation of Artificial Intelligence, it is the field of Health Care which would be benifitted the most and in turn Humanity. It very hard to diagnose X-ray scans, and take decisions deterministically at the right momemt. There is also human errors associated with it. Computers can contribute a ton to Health and Medicine as an "SideKick" to humans(Doctors). I wouldn't say Computer can outperform with absolute percision, it may have fail in some cases. That's why we have computers to assist Doctors.
 
 ![health](https://github.com/mohamedezzeldeenhassanmohamed/COVID-19-Detection-Deep_Learning-Pytorch_Model/assets/94178842/5c81255f-2c33-466c-b0ee-061cb3fd1e7a)
+
+# Jupyter Notebook workshop will explain every thing that you want to understand :)
